@@ -1,0 +1,323 @@
+{
+  "business": {
+    "name": "Finish Carpentry LLC",
+    "shortName": "Finish Carpentry",
+    "tagline": "Precision trim work and custom millwork for Dallas homes",
+    "niche": "Carpenter",
+    "phone": "(214) 437-5788",
+    "address": "10229 Cayuga Dr, Dallas, TX 75228",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Finish Carpentry LLC | Dallas Custom Trim & Millwork",
+    "description": "Dallas's premier finish carpentry team. Expert custom trim, crown molding, wainscoting, and built-ins. 5-star service. Call (214) 437-5788 for a free estimate."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Finish Carpenters",
+      "headline": "Custom Trim & Millwork That Elevates Your Home",
+      "subheadline": "From crown molding to built-in bookcases, we craft timeless woodwork that adds beauty and value.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Our Work"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Homes Transformed"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Precision Craftsmanship",
+        "title": "Seamless Crown Molding & Baseboards",
+        "body": "Our expert carpenters measure, cut, and install crown molding and baseboards with flawless joints and smooth transitions. We use premium materials and time-tested techniques to ensure a perfect fit every time.",
+        "bullets": [
+          "Custom profiles to match your home's style",
+          "Coped inside corners for gap-free joints",
+          "Primed and painted for a finished look"
+        ],
+        "reverse": false,
+        "cardLabel": "Featured Service",
+        "cardTitle": "Crown Molding Installation",
+        "cardBody": "Transform any room with elegant crown molding. Our team handles everything from simple to complex multi-tier designs."
+      },
+      {
+        "eyebrow": "Custom Built-Ins",
+        "title": "Tailored Shelving & Cabinetry",
+        "body": "Maximize your space with custom built-in bookcases, entertainment centers, and window seats. Each piece is designed to fit your exact specifications and complement your home's architecture.",
+        "bullets": [
+          "Designed to your dimensions and style",
+          "Solid wood construction for durability",
+          "Fully finished and painted or stained"
+        ],
+        "reverse": true,
+        "cardLabel": "Portfolio Highlight",
+        "cardTitle": "Built-In Library",
+        "cardBody": "A custom floor-to-ceiling library with adjustable shelves, hidden storage, and integrated lighting."
+      }
+    ],
+    "whyTitle": "Why Choose Finish Carpentry LLC",
+    "whyChooseUs": [
+      {
+        "title": "Master Craftsmanship",
+        "description": "Every cut, joint, and finish is executed with precision. We take pride in delivering work that stands the test of time."
+      },
+      {
+        "title": "Personalized Design",
+        "description": "We collaborate with you to create custom solutions that reflect your taste and enhance your home's character."
+      },
+      {
+        "title": "Clean & Respectful",
+        "description": "We protect your floors, walls, and furniture. Our team leaves every workspace spotless at the end of each day."
+      },
+      {
+        "title": "Reliable & Communicative",
+        "description": "Expect on-time arrivals, clear timelines, and open communication throughout your project. No surprises."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "The crown molding in our living room is absolutely stunning. The attention to detail was incredible — every corner is perfect.",
+        "author": "Jennifer L.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "They built custom bookshelves for our home office and it completely transformed the space. Professional, fast, and clean.",
+        "author": "Mark T.",
+        "role": "Highland Park resident"
+      },
+      {
+        "quote": "We had them do baseboards and window casings throughout our new house. The quality is top-notch and they were a pleasure to work with.",
+        "author": "Angela R.",
+        "role": "M Streets homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Elevate Your Home?",
+      "subheadline": "Get a free, no-obligation estimate for your next carpentry project.",
+      "primaryCta": "Call (214) 437-5788",
+      "secondaryCta": "Request a Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "From intricate crown molding to custom built-ins, our finish carpentry services add elegance and character to every room. We combine old-world craftsmanship with modern techniques to deliver exceptional results."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Crown Molding Installation",
+      "shortDescription": "Elegant crown molding that adds architectural interest and value to any room.",
+      "longDescription": "Our crown molding services include custom profiles, multi-tier designs, and seamless coped corners. We work with both primed wood and polyurethane materials to match your style and budget.",
+      "benefits": [
+        "Enhances room aesthetics and home value",
+        "Hides imperfections at wall-ceiling joints",
+        "Customizable to any architectural style"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We visit your home, discuss design options, and take precise measurements."
+        },
+        {
+          "title": "Fabrication",
+          "description": "We cut and cope molding in our workshop for perfect, gap-free joints."
+        },
+        {
+          "title": "Installation",
+          "description": "We install the molding with professional-grade adhesives and nails, then caulk and touch up paint."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does crown molding installation take?",
+          "answer": "Most rooms take 1-2 days, depending on complexity and room size."
+        },
+        {
+          "question": "Do you paint the molding?",
+          "answer": "We install primed molding and can paint it to match your walls, or you can paint it after installation."
+        }
+      ],
+      "slug": "crown-molding-installation"
+    },
+    {
+      "icon": "02",
+      "title": "Custom Built-Ins",
+      "shortDescription": "Tailored shelving, cabinets, and entertainment centers designed for your space.",
+      "longDescription": "We design and build custom built-in bookcases, window seats, entertainment centers, and more. Each piece is constructed from solid wood and finished to your exact specifications.",
+      "benefits": [
+        "Maximizes unused space and adds storage",
+        "Increases home functionality and appeal",
+        "Built to last with premium materials"
+      ],
+      "process": [
+        {
+          "title": "Design",
+          "description": "We create a detailed design based on your needs and room dimensions."
+        },
+        {
+          "title": "Construction",
+          "description": "We build the unit in our shop to ensure precision and quality."
+        },
+        {
+          "title": "Installation",
+          "description": "We carefully install the built-in, ensuring a perfect fit and seamless finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing trim and style?",
+          "answer": "Yes, we can match any existing woodwork or create a complementary design."
+        },
+        {
+          "question": "What materials do you use?",
+          "answer": "We primarily use solid hardwoods like oak, maple, and poplar, as well as high-quality plywood for painted finishes."
+        }
+      ],
+      "slug": "custom-built-ins"
+    },
+    {
+      "icon": "03",
+      "title": "Baseboard & Trim Installation",
+      "shortDescription": "Clean, precise baseboards and door/window casings that complete your rooms.",
+      "longDescription": "We install baseboards, shoe molding, door casings, and window trim with meticulous attention to detail. Our miters are tight, our copes are seamless, and our finishes are flawless.",
+      "benefits": [
+        "Provides a polished, finished look",
+        "Protects walls from scuffs and damage",
+        "Available in various profiles and heights"
+      ],
+      "process": [
+        {
+          "title": "Measurement",
+          "answer": "We measure each wall and opening to calculate exact material needs."
+        },
+        {
+          "title": "Cutting",
+          "answer": "We cut all pieces with precision miter saws and cope joints where needed."
+        },
+        {
+          "title": "Installation & Finish",
+          "answer": "We nail, fill, sand, and caulk for a seamless appearance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is the difference between baseboard and shoe molding?",
+          "answer": "Baseboard is the main trim along the wall, while shoe molding is a thin strip at the floor to cover gaps."
+        },
+        {
+          "question": "Can you install trim over existing tile or hardwood?",
+          "answer": "Yes, we can install quarter round or shoe molding to transition between flooring and baseboards."
+        }
+      ],
+      "slug": "baseboard-trim-installation"
+    },
+    {
+      "icon": "04",
+      "title": "Wainscoting & Wall Paneling",
+      "shortDescription": "Classic wainscoting and board-and-batten that add texture and elegance.",
+      "longDescription": "We install wainscoting, beadboard, board-and-batten, and raised panel walls. These features add depth, character, and a custom look to dining rooms, hallways, and bathrooms.",
+      "benefits": [
+        "Adds architectural interest and warmth",
+        "Protects walls from wear and tear",
+        "Increases perceived home value"
+      ],
+      "process": [
+        {
+          "title": "Design Selection",
+          "description": "We help you choose a style that complements your home's architecture."
+        },
+        {
+          "title": "Panel Fabrication",
+          "description": "We cut and assemble panels to your exact wall dimensions."
+        },
+        {
+          "title": "Installation & Finishing",
+          "description": "We install panels with adhesive and nails, then caulk, fill, and paint."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is the best height for wainscoting?",
+          "answer": "Typical heights range from 32 to 48 inches, but we can customize based on ceiling height and room proportions."
+        },
+        {
+          "question": "Can wainscoting be installed in bathrooms?",
+          "answer": "Yes, we use moisture-resistant materials and proper sealing for bathroom installations."
+        }
+      ],
+      "slug": "wainscoting-wall-paneling"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Premier Finish Carpentry Team",
+    "mission": "Our mission is to enhance homes through meticulous craftsmanship, personalized service, and a commitment to excellence.",
+    "story": [
+      "Finish Carpentry LLC was founded on the belief that every home deserves flawless woodwork. Starting as a small crew serving the Lakewood neighborhood, we've grown into one of Dallas's most trusted finish carpentry companies. Our founder, a master carpenter with over 15 years of experience, instilled a culture of precision, honesty, and pride in every project.",
+      "Today, we serve homeowners across the Dallas metroplex, from historic M Streets to modern Preston Hollow. We specialize in crown molding, custom built-ins, and trim work that transforms ordinary rooms into extraordinary spaces. Our 5.0 rating reflects our unwavering dedication to quality and customer satisfaction."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years of Excellence"
+    },
+    "coreValues": [
+      {
+        "title": "Craftsmanship",
+        "description": "We treat every cut and joint as a work of art, using time-honored techniques and modern tools."
+      },
+      {
+        "title": "Integrity",
+        "description": "We provide honest advice, transparent pricing, and stand behind our work with a satisfaction guarantee."
+      },
+      {
+        "title": "Respect",
+        "description": "We respect your home and your time — arriving on schedule, protecting your property, and cleaning up thoroughly."
+      },
+      {
+        "title": "Collaboration",
+        "description": "We listen to your ideas and work closely with you to bring your vision to life."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Let's Discuss Your Project",
+    "subheadline": "Contact us for a free estimate and discover how we can transform your home.",
+    "primaryCta": "Call (214) 437-5788",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "M Streets",
+      "Preston Hollow",
+      "Park Cities"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Carpenter",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2144375788",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
